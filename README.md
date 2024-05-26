@@ -1,0 +1,2 @@
+# Exploratory-Physics-Experiment
+大二上-大物探究性实验，通过物理推导与机器学习两种方法探究篮球空心入网时出射角与初速度的关系
